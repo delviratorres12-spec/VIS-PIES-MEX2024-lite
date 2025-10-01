@@ -70,15 +70,15 @@ ui <- fluidPage(
     "))
   ),
   
-  titlePanel("PIE México 2024"),
+  titlePanel("PIES México 2024"),
   
   tabsetPanel(
     tabPanel("Inicio",
              h3("Acerca del visualizador"),
-             h2("Proyecto de Integridad Electoral Subnacional en México 2024"),
+             h2("Proyecto de integridad electoral subnacional en México 2024"),
              p("Este visualizador interactivo presenta los resultados de la 
-             encuesta a expertos del Proyecto de 
-             Integridad Electoral (PIE) México 2024."),
+             encuesta a expertos del proyecto de 
+             integridad electoral subnacional (PIES) México 2024."),
              p("Desde 2012 el Electoral Integrity Project (EIP), 
                                    originalmente encabezado por Pippa Norris, de las universidades de Harvard y Sydney, 
                                    realiza encuestas a expertas y expertos por país para conocer su percepción de la 
