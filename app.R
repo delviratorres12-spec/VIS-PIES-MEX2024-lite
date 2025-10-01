@@ -11,7 +11,7 @@ df <- read.csv("data/data.csv")
 base <- df
 
 # Categorías
-tipos <- c("Gubernatura","Diputados locales","Munícipes")
+tipos <- c("Gobernadores","Diputados locales","Munícipes")
 vars <- c("PEIIndexp", "laws.1", "procedures.1", "boundaries.1", 
           "votereg", "partyreg", "media", "finance", 
           "voting", "count", "results", "EMBs")
@@ -90,7 +90,7 @@ server <- function(input, output, session) {
     barplot(valores,
             names.arg = nombres,
             las = 2,
-            col = "steelblue",
+            col = "#0029a3",
             border = "grey50",
             ylim = c(0, 90),
             main = paste("Puntuación por entidad del", input$var),
