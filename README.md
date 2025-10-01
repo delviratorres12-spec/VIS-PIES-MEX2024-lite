@@ -6,4 +6,7 @@ Realizada a partir de los datos:\
 \
 *Loza, Nicolas; Elvira Torres, Diego Enrique; Coca Rios, Itzel, 2025, "PIESM (2024) nivel estado-eleccion", https://doi.org/10.7910/DVN/60BT7S, Harvard Dataverse, V1*\
 
-- *DEET*
+- *DEET*\
+\
+[![DOI](https://zenodo.org/badge/1067623785.svg)](https://doi.org/10.5281/zenodo.17241011)
+
