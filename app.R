@@ -21,14 +21,79 @@ vars2 <- c("PEIIndexp_i", "laws.1_i", "procedures.1_i", "boundaries.1_i",
 
 # UI con tabsetPanel (R base)
 ui <- fluidPage(
+  
+  # CSS institucional
+  tags$head(
+    tags$style(HTML("
+      /* Color principal en encabezados y títulos */
+      h1, h2, h3, h4 {
+        color: #0029a3;
+      }
+
+      /* Fondo de las pestañas activas */
+      .nav-tabs > li.active > a, 
+      .nav-tabs > li.active > a:focus, 
+      .nav-tabs > li.active > a:hover {
+        background-color: #0029a3;
+        color: white !important;
+      }
+
+      /* Fondo de las pestañas inactivas */
+      .nav-tabs > li > a {
+        background-color: grey50;
+        color: #0029a3;
+      }
+
+      /* Botones */
+      .btn {
+        background-color: #0029a3;
+        color: white;
+        border: none;
+      }
+
+      .btn:hover {
+        background-color: grey50;
+        color: grey80;
+      }
+
+      /* Tablas */
+      table {
+        border: 1px solid grey50;
+      }
+      th {
+        background-color: #0029a3;
+        color: white;
+      }
+      td {
+        border: 1px solid grey50;
+      }
+    "))
+  ),
+  
   titlePanel("PIE México 2024"),
   
   tabsetPanel(
     tabPanel("Inicio",
+             h3("Acerca del visualizador"),
              h2("Proyecto de Integridad Electoral Subnacional en México 2024"),
-             p("Este visualizador presenta los resultados de la encuesta a expertos del PIE México 2024."),
-             p("De 2015 a 2024 se ha calibrado la integridad de 142 procesos electorales locales entrevistando a 1,703 expertas/os."),
-             p("En esta versión se muestran tablas y gráficos en R base, sin mapas, para simplificar la instalación.")
+             p("Este visualizador interactivo presenta los resultados de la 
+             encuesta a expertos del Proyecto de 
+             Integridad Electoral (PIE) México 2024."),
+             p("Desde 2012 el Electoral Integrity Project (EIP), 
+                                   originalmente encabezado por Pippa Norris, de las universidades de Harvard y Sydney, 
+                                   realiza encuestas a expertas y expertos por país para conocer su percepción de la 
+                                   integridad de las elecciones en cada nación. En México, en 2015 y 2016, 
+                                   investigadores/as de FLACSO México asociados/as al equipo del EIP, han entrevistado 
+                                   a expertas/os locales para conocer la integridad electoral de las contiendas en los 
+                                   32 estados de la República mexicana. De 2015 a 2024 se ha calibrado la integridad de 
+                                   142 procesos electorales locales entrevistando a 1,703 expertas/os con el objetivo 
+                                   de es evaluar la integridad de las elecciones 
+             subnacionales en México a través de distintos indicadores, 
+             permitiendo la comparación entre entidades federativas y 
+             tipos de elección."),
+             p("Fuente de datos: PIES México 2024. Disponible en Harvard Dataverse."),
+             p(em("Loza, Nicolas; Elvira Torres, Diego Enrique; Coca Rios, Itzel, 2025, 
+                                        PIESM (2024) nivel estado-eleccion, https://doi.org/10.7910/DVN/60BT7S, Harvard Dataverse"))
     ),
     
     tabPanel("Resumen",
