@@ -93,7 +93,8 @@ ui <- fluidPage(
              tipos de elección."),
              p("Fuente de datos: PIES México 2024. Disponible en Harvard Dataverse."),
              p(em("Loza, Nicolas; Elvira Torres, Diego Enrique; Coca Rios, Itzel, 2025, 
-                                        PIESM (2024) nivel estado-eleccion, https://doi.org/10.7910/DVN/60BT7S, Harvard Dataverse"))
+                                        PIESM (2024) nivel estado-eleccion, https://doi.org/10.7910/DVN/60BT7S, Harvard Dataverse")),
+             p(" - Elaborado por Diego Elvira -", em("https://github.com/delviratorres12-spec/VIS-PIES-MEX2024"))
     ),
     
     tabPanel("Resumen",
