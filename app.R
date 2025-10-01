@@ -65,8 +65,8 @@ server <- function(input, output, session) {
   output$tabla <- renderTable({
     base %>%
       group_by(`Tipo.de.elección`) %>% 
-      summarise(n = n(),
-                n_exp = sum(numresponses),
+      summarise(`#` = n(),
+                `# de respuestas de expertos` = sum(numresponses),
                 tasa = sum(numresponses) / sum(contacted)) %>%
       ungroup()
   })
