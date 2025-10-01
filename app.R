@@ -65,8 +65,8 @@ server <- function(input, output, session) {
   output$tabla <- renderTable({
     base %>%
       group_by(`Tipo.de.elección`) %>% 
-      summarise('#' = n(),
-                `# de respuestas de expertos` = sum(numresponses),
+      summarise(n = n(),
+                n_exp = sum(numresponses),
                 tasa = sum(numresponses) / sum(contacted)) %>%
       ungroup()
   })
@@ -123,5 +123,4 @@ shinyApp(ui, server)
 #
 # # Exporta la app a HTML y recursos estáticos
 # shinylive::export(appdir = ".", destdir = "docs")
-
 
