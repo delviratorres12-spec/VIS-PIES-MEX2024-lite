@@ -42,7 +42,7 @@ ui <- fluidPage(
     tabPanel("Indicadores",
              fluidRow(
                column(6,
-                      h3("Resultados sin imputación"),
+                      h3("Resultados"),
                       selectInput("tipo2", "Tipo de elección", choices = tipos),
                       selectInput("var", "Indicador", choices = vars),
                       plotOutput("graf2", height = "600px")
@@ -65,17 +65,19 @@ server <- function(input, output, session) {
   output$tabla <- renderTable({
     base %>%
       group_by(`Tipo.de.elección`) %>% 
-      summarise(n = n(),
-                n_exp = sum(numresponses),
-                tasa = sum(numresponses) / sum(contacted)) %>%
-      ungroup()
+      summarise(`Entidades` = n(),
+                `# de respuestas` = sum(numresponses),
+                `Tasa` = paste0(round(sum(numresponses) / sum(contacted),4)*100,"%")) %>%
+      ungroup() %>% 
+      rename(`Elección`=`Tipo.de.elección`)
   })
   
   # Tabla detalle por tipo
   output$tabla2 <- renderTable({
     base %>%
       filter(`Tipo.de.elección` == input$tipo) %>%
-      select(estado)
+      select(estado)%>% 
+      rename(`Entidades`=estado)
   })
   
   # Gráfico sin imputación
