@@ -1,6 +1,9 @@
 # VIS-PIES-MEX2024-lite
 
 Shiny App de visualización de resultados de la encuesta a expertos en elecciones subnacionales nivel estado-elección 2024.\
+\
+https://delviratorres12-spec.github.io/VIS-PIES-MEX2024-lite/
+\
 Realizada excluivamente con librerías `shiny`, `shinylive`, y `dplyr` para su despliegue en sitio estático de GitHub Pages.\
 \
 Fuente a la base de datos:\
