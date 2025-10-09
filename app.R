@@ -270,7 +270,7 @@ output$graf4 <- renderPlot({
                   col = ifelse(nombres == "PEIIndexp_i", "grey40", "#0029a3"),
                   border = "grey50",
                   ylim = c(0, 100),
-                  main = paste("Puntuación por entidad del", input$entidad),
+                  main = paste("Puntuación de indicadores en", input$entidad),
                   ylab = "Puntuación")
     
     abline(h = seq(0, 80, by = 20), col = "gray50", lty = "dotted")
