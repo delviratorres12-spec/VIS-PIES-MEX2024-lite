@@ -1,0 +1,385 @@
+"","estado","var","value"
+"1","Aguascalientes","PEIIndexp_i",64.49708
+"2","Aguascalientes","laws.1_i",58.33333
+"3","Aguascalientes","procedures.1_i",83.61607
+"4","Aguascalientes","boundaries.1_i",66.36905
+"5","Aguascalientes","votereg_i",78.75
+"6","Aguascalientes","partyreg_i",65.71429
+"7","Aguascalientes","media_i",57.14286
+"8","Aguascalientes","finance_i",39.32143
+"9","Aguascalientes","voting_i",62.32143
+"10","Aguascalientes","count_i",68.10714
+"11","Aguascalientes","results_i",66.38393
+"12","Aguascalientes","EMBs_i",75
+"13","Baja California","PEIIndexp_i",55.91199
+"14","Baja California","laws.1_i",64.58333
+"15","Baja California","procedures.1_i",73.4375
+"16","Baja California","boundaries.1_i",56.70139
+"17","Baja California","votereg_i",72.1875
+"18","Baja California","partyreg_i",43.1875
+"19","Baja California","media_i",43.4375
+"20","Baja California","finance_i",30.77083
+"21","Baja California","voting_i",58.67188
+"22","Baja California","count_i",70.02083
+"23","Baja California","results_i",56.92708
+"24","Baja California","EMBs_i",57.83854
+"25","Baja California Sur","PEIIndexp_i",57.44331
+"26","Baja California Sur","laws.1_i",38.88889
+"27","Baja California Sur","procedures.1_i",70.13889
+"28","Baja California Sur","boundaries.1_i",54.90741
+"29","Baja California Sur","votereg_i",62.03704
+"30","Baja California Sur","partyreg_i",59.41667
+"31","Baja California Sur","media_i",51.66667
+"32","Baja California Sur","finance_i",37.80556
+"33","Baja California Sur","voting_i",61.07639
+"34","Baja California Sur","count_i",62.83333
+"35","Baja California Sur","results_i",59.02778
+"36","Baja California Sur","EMBs_i",70.83333
+"37","Campeche","PEIIndexp_i",47.13921
+"38","Campeche","laws.1_i",42.85714
+"39","Campeche","procedures.1_i",58.03571
+"40","Campeche","boundaries.1_i",54.34524
+"41","Campeche","votereg_i",55.29762
+"42","Campeche","partyreg_i",41.67857
+"43","Campeche","media_i",41
+"44","Campeche","finance_i",28.21429
+"45","Campeche","voting_i",49.95536
+"46","Campeche","count_i",53.57143
+"47","Campeche","results_i",48.125
+"48","Campeche","EMBs_i",51.42857
+"49","Chiapas","PEIIndexp_i",50.90267
+"50","Chiapas","laws.1_i",52.98077
+"51","Chiapas","procedures.1_i",58.65385
+"52","Chiapas","boundaries.1_i",48.07692
+"53","Chiapas","votereg_i",53.46154
+"54","Chiapas","partyreg_i",48.65385
+"55","Chiapas","media_i",39.23077
+"56","Chiapas","finance_i",38.86538
+"57","Chiapas","voting_i",50.86538
+"58","Chiapas","count_i",63.23077
+"59","Chiapas","results_i",56.44231
+"60","Chiapas","EMBs_i",53.36538
+"61","Chihuahua","PEIIndexp_i",55.80612
+"62","Chihuahua","laws.1_i",60
+"63","Chihuahua","procedures.1_i",72.5
+"64","Chihuahua","boundaries.1_i",55.625
+"65","Chihuahua","votereg_i",62.5
+"66","Chihuahua","partyreg_i",50.4
+"67","Chihuahua","media_i",42.5
+"68","Chihuahua","finance_i",34.525
+"69","Chihuahua","voting_i",54.9375
+"70","Chihuahua","count_i",63.675
+"71","Chihuahua","results_i",60.15625
+"72","Chihuahua","EMBs_i",68.625
+"73","Ciudad de México","PEIIndexp_i",64.86111
+"74","Ciudad de México","laws.1_i",65.27778
+"75","Ciudad de México","procedures.1_i",73.95833
+"76","Ciudad de México","boundaries.1_i",79.00463
+"77","Ciudad de México","votereg_i",84.14352
+"78","Ciudad de México","partyreg_i",61.23611
+"79","Ciudad de México","media_i",50.13889
+"80","Ciudad de México","finance_i",39.66667
+"81","Ciudad de México","voting_i",65.32118
+"82","Ciudad de México","count_i",79.11111
+"83","Ciudad de México","results_i",62.1875
+"84","Ciudad de México","EMBs_i",68.75
+"85","Coahuila","PEIIndexp_i",62.34694
+"86","Coahuila","laws.1_i",66.66667
+"87","Coahuila","procedures.1_i",73.75
+"88","Coahuila","boundaries.1_i",66.08333
+"89","Coahuila","votereg_i",76.08333
+"90","Coahuila","partyreg_i",59.125
+"91","Coahuila","media_i",34.225
+"92","Coahuila","finance_i",46.825
+"93","Coahuila","voting_i",59.84375
+"94","Coahuila","count_i",72.35
+"95","Coahuila","results_i",68.96875
+"96","Coahuila","EMBs_i",79.0625
+"97","Colima","PEIIndexp_i",53.60787
+"98","Colima","laws.1_i",54.7619
+"99","Colima","procedures.1_i",66.07143
+"100","Colima","boundaries.1_i",41.54762
+"101","Colima","votereg_i",66.36905
+"102","Colima","partyreg_i",46.53571
+"103","Colima","media_i",37.21429
+"104","Colima","finance_i",35.42857
+"105","Colima","voting_i",62.5
+"106","Colima","count_i",61.42857
+"107","Colima","results_i",66.07143
+"108","Colima","EMBs_i",51.78571
+"109","Durango","PEIIndexp_i",58.86774
+"110","Durango","laws.1_i",64.74359
+"111","Durango","procedures.1_i",75.96154
+"112","Durango","boundaries.1_i",59.55128
+"113","Durango","votereg_i",65
+"114","Durango","partyreg_i",50.55769
+"115","Durango","media_i",41.25
+"116","Durango","finance_i",43.07692
+"117","Durango","voting_i",59.97596
+"118","Durango","count_i",68.57692
+"119","Durango","results_i",57.76442
+"120","Durango","EMBs_i",71.15385
+"121","Estado de México","PEIIndexp_i",63.0119
+"122","Estado de México","laws.1_i",66.38889
+"123","Estado de México","procedures.1_i",75.39583
+"124","Estado de México","boundaries.1_i",63.16667
+"125","Estado de México","votereg_i",71.77778
+"126","Estado de México","partyreg_i",50.01667
+"127","Estado de México","media_i",50.65
+"128","Estado de México","finance_i",47.95
+"129","Estado de México","voting_i",63.4375
+"130","Estado de México","count_i",73.33333
+"131","Estado de México","results_i",66.04167
+"132","Estado de México","EMBs_i",75.14583
+"133","Guanajuato","PEIIndexp_i",58.21854
+"134","Guanajuato","laws.1_i",47.91667
+"135","Guanajuato","procedures.1_i",70.3125
+"136","Guanajuato","boundaries.1_i",66.80556
+"137","Guanajuato","votereg_i",73.64583
+"138","Guanajuato","partyreg_i",49.875
+"139","Guanajuato","media_i",45.72917
+"140","Guanajuato","finance_i",38.45833
+"141","Guanajuato","voting_i",54.15365
+"142","Guanajuato","count_i",79.25
+"143","Guanajuato","results_i",55.80729
+"144","Guanajuato","EMBs_i",70.83333
+"145","Guerrero","PEIIndexp_i",51.87616
+"146","Guerrero","laws.1_i",68.18182
+"147","Guerrero","procedures.1_i",67.52841
+"148","Guerrero","boundaries.1_i",63.2197
+"149","Guerrero","votereg_i",60.7197
+"150","Guerrero","partyreg_i",42.63636
+"151","Guerrero","media_i",38.43182
+"152","Guerrero","finance_i",36.56818
+"153","Guerrero","voting_i",44.9858
+"154","Guerrero","count_i",59.02273
+"155","Guerrero","results_i",56.25
+"156","Guerrero","EMBs_i",56.81818
+"157","Hidalgo","PEIIndexp_i",54.30357
+"158","Hidalgo","laws.1_i",47.5
+"159","Hidalgo","procedures.1_i",75.625
+"160","Hidalgo","boundaries.1_i",50.79167
+"161","Hidalgo","votereg_i",64.29167
+"162","Hidalgo","partyreg_i",43.15
+"163","Hidalgo","media_i",31.5
+"164","Hidalgo","finance_i",38.125
+"165","Hidalgo","voting_i",59.25
+"166","Hidalgo","count_i",73.2
+"167","Hidalgo","results_i",51.875
+"168","Hidalgo","EMBs_i",64.8125
+"169","Jalisco","PEIIndexp_i",53.18665
+"170","Jalisco","laws.1_i",56.25
+"171","Jalisco","procedures.1_i",64.0625
+"172","Jalisco","boundaries.1_i",59.34028
+"173","Jalisco","votereg_i",67.88194
+"174","Jalisco","partyreg_i",53.5
+"175","Jalisco","media_i",44.41667
+"176","Jalisco","finance_i",36.9375
+"177","Jalisco","voting_i",55.54688
+"178","Jalisco","count_i",57.83333
+"179","Jalisco","results_i",38.54167
+"180","Jalisco","EMBs_i",59.375
+"181","Michoacán","PEIIndexp_i",55.38776
+"182","Michoacán","laws.1_i",56.66667
+"183","Michoacán","procedures.1_i",71.3125
+"184","Michoacán","boundaries.1_i",50.625
+"185","Michoacán","votereg_i",65.41667
+"186","Michoacán","partyreg_i",45.4
+"187","Michoacán","media_i",40.1
+"188","Michoacán","finance_i",38.825
+"189","Michoacán","voting_i",56.53125
+"190","Michoacán","count_i",69.475
+"191","Michoacán","results_i",50.625
+"192","Michoacán","EMBs_i",71.71875
+"193","Morelos","PEIIndexp_i",53.26956
+"194","Morelos","laws.1_i",57.43056
+"195","Morelos","procedures.1_i",65.36458
+"196","Morelos","boundaries.1_i",57.77778
+"197","Morelos","votereg_i",65.17361
+"198","Morelos","partyreg_i",45.85417
+"199","Morelos","media_i",44.33333
+"200","Morelos","finance_i",35.91667
+"201","Morelos","voting_i",52.23958
+"202","Morelos","count_i",59.41667
+"203","Morelos","results_i",58.85417
+"204","Morelos","EMBs_i",56.66667
+"205","Nayarit","PEIIndexp_i",53.61607
+"206","Nayarit","laws.1_i",54.16667
+"207","Nayarit","procedures.1_i",67.73438
+"208","Nayarit","boundaries.1_i",55.78125
+"209","Nayarit","votereg_i",59.89583
+"210","Nayarit","partyreg_i",56.125
+"211","Nayarit","media_i",30
+"212","Nayarit","finance_i",32.78125
+"213","Nayarit","voting_i",51.07422
+"214","Nayarit","count_i",66.84375
+"215","Nayarit","results_i",59.375
+"216","Nayarit","EMBs_i",67.96875
+"217","Nuevo León","PEIIndexp_i",67.20663
+"218","Nuevo León","laws.1_i",73.33333
+"219","Nuevo León","procedures.1_i",75
+"220","Nuevo León","boundaries.1_i",75.41667
+"221","Nuevo León","votereg_i",75.95833
+"222","Nuevo León","partyreg_i",63.725
+"223","Nuevo León","media_i",60
+"224","Nuevo León","finance_i",44.275
+"225","Nuevo León","voting_i",63.4375
+"226","Nuevo León","count_i",78.225
+"227","Nuevo León","results_i",58.84375
+"228","Nuevo León","EMBs_i",86.25
+"229","Oaxaca","PEIIndexp_i",56.0523
+"230","Oaxaca","laws.1_i",46.875
+"231","Oaxaca","procedures.1_i",73.4375
+"232","Oaxaca","boundaries.1_i",64.94792
+"233","Oaxaca","votereg_i",77.76042
+"234","Oaxaca","partyreg_i",41.25
+"235","Oaxaca","media_i",37.9375
+"236","Oaxaca","finance_i",33.84375
+"237","Oaxaca","voting_i",60.95703
+"238","Oaxaca","count_i",68.125
+"239","Oaxaca","results_i",60.9375
+"240","Oaxaca","EMBs_i",61.71875
+"241","Puebla","PEIIndexp_i",62.5574
+"242","Puebla","laws.1_i",58.33333
+"243","Puebla","procedures.1_i",75.58594
+"244","Puebla","boundaries.1_i",65.625
+"245","Puebla","votereg_i",65.36458
+"246","Puebla","partyreg_i",63.34375
+"247","Puebla","media_i",50.625
+"248","Puebla","finance_i",42.03125
+"249","Puebla","voting_i",62.77344
+"250","Puebla","count_i",72.5625
+"251","Puebla","results_i",73.4375
+"252","Puebla","EMBs_i",64.0625
+"253","Querétaro","PEIIndexp_i",65.89286
+"254","Querétaro","laws.1_i",65
+"255","Querétaro","procedures.1_i",81.25
+"256","Querétaro","boundaries.1_i",67.08333
+"257","Querétaro","votereg_i",70.45833
+"258","Querétaro","partyreg_i",66
+"259","Querétaro","media_i",52.85
+"260","Querétaro","finance_i",54.6
+"261","Querétaro","voting_i",57.51562
+"262","Querétaro","count_i",79.25
+"263","Querétaro","results_i",69.375
+"264","Querétaro","EMBs_i",73.75
+"265","Quintana Roo","PEIIndexp_i",54.76757
+"266","Quintana Roo","laws.1_i",48.14815
+"267","Quintana Roo","procedures.1_i",75.69444
+"268","Quintana Roo","boundaries.1_i",53.7963
+"269","Quintana Roo","votereg_i",65.41667
+"270","Quintana Roo","partyreg_i",51.75
+"271","Quintana Roo","media_i",32.16667
+"272","Quintana Roo","finance_i",33.30556
+"273","Quintana Roo","voting_i",52.20486
+"274","Quintana Roo","count_i",73.33333
+"275","Quintana Roo","results_i",64.58333
+"276","Quintana Roo","EMBs_i",62.5
+"277","San Luis Potosí","PEIIndexp_i",60.22567
+"278","San Luis Potosí","laws.1_i",55.76923
+"279","San Luis Potosí","procedures.1_i",83.17308
+"280","San Luis Potosí","boundaries.1_i",57.66026
+"281","San Luis Potosí","votereg_i",74.13462
+"282","San Luis Potosí","partyreg_i",59.69231
+"283","San Luis Potosí","media_i",43.40385
+"284","San Luis Potosí","finance_i",48.84615
+"285","San Luis Potosí","voting_i",54.09856
+"286","San Luis Potosí","count_i",72.44231
+"287","San Luis Potosí","results_i",61.29808
+"288","San Luis Potosí","EMBs_i",63.94231
+"289","Sinaloa","PEIIndexp_i",63.49809
+"290","Sinaloa","laws.1_i",68.07292
+"291","Sinaloa","procedures.1_i",67.96875
+"292","Sinaloa","boundaries.1_i",61.45833
+"293","Sinaloa","votereg_i",71.875
+"294","Sinaloa","partyreg_i",67.4375
+"295","Sinaloa","media_i",52.71875
+"296","Sinaloa","finance_i",44.40625
+"297","Sinaloa","voting_i",61.64062
+"298","Sinaloa","count_i",71.375
+"299","Sinaloa","results_i",60.15625
+"300","Sinaloa","EMBs_i",80.46875
+"301","Sonora","PEIIndexp_i",57.928
+"302","Sonora","laws.1_i",55.55556
+"303","Sonora","procedures.1_i",73.88889
+"304","Sonora","boundaries.1_i",53.19444
+"305","Sonora","votereg_i",61.48148
+"306","Sonora","partyreg_i",54.41667
+"307","Sonora","media_i",56.19444
+"308","Sonora","finance_i",32.27778
+"309","Sonora","voting_i",54.49653
+"310","Sonora","count_i",67.91667
+"311","Sonora","results_i",69.09722
+"312","Sonora","EMBs_i",66.45833
+"313","Tabasco","PEIIndexp_i",55.66008
+"314","Tabasco","laws.1_i",63.54167
+"315","Tabasco","procedures.1_i",63.28125
+"316","Tabasco","boundaries.1_i",48.85417
+"317","Tabasco","votereg_i",69.58333
+"318","Tabasco","partyreg_i",46.78125
+"319","Tabasco","media_i",51.625
+"320","Tabasco","finance_i",35.03125
+"321","Tabasco","voting_i",58.98438
+"322","Tabasco","count_i",67
+"323","Tabasco","results_i",56.52344
+"324","Tabasco","EMBs_i",57.03125
+"325","Tamaulipas","PEIIndexp_i",54.45578
+"326","Tamaulipas","laws.1_i",59.25926
+"327","Tamaulipas","procedures.1_i",62.5
+"328","Tamaulipas","boundaries.1_i",68.84259
+"329","Tamaulipas","votereg_i",70.64815
+"330","Tamaulipas","partyreg_i",47.30556
+"331","Tamaulipas","media_i",38.88889
+"332","Tamaulipas","finance_i",39.16667
+"333","Tamaulipas","voting_i",52.60417
+"334","Tamaulipas","count_i",63.25
+"335","Tamaulipas","results_i",58.99306
+"336","Tamaulipas","EMBs_i",55.55556
+"337","Tlaxcala","PEIIndexp_i",56.30402
+"338","Tlaxcala","laws.1_i",52.45098
+"339","Tlaxcala","procedures.1_i",73.25368
+"340","Tlaxcala","boundaries.1_i",60
+"341","Tlaxcala","votereg_i",69.73039
+"342","Tlaxcala","partyreg_i",49.89706
+"343","Tlaxcala","media_i",45.77941
+"344","Tlaxcala","finance_i",39.83824
+"345","Tlaxcala","voting_i",54.31985
+"346","Tlaxcala","count_i",65.27941
+"347","Tlaxcala","results_i",62.72059
+"348","Tlaxcala","EMBs_i",57.48162
+"349","Veracruz","PEIIndexp_i",55.52394
+"350","Veracruz","laws.1_i",56.41026
+"351","Veracruz","procedures.1_i",68.75
+"352","Veracruz","boundaries.1_i",57.37179
+"353","Veracruz","votereg_i",62.59615
+"354","Veracruz","partyreg_i",47.73077
+"355","Veracruz","media_i",45.94231
+"356","Veracruz","finance_i",35.01923
+"357","Veracruz","voting_i",50.3125
+"358","Veracruz","count_i",65.94231
+"359","Veracruz","results_i",64.6875
+"360","Veracruz","EMBs_i",70.52885
+"361","Yucatán","PEIIndexp_i",57.99036
+"362","Yucatán","laws.1_i",53.7037
+"363","Yucatán","procedures.1_i",76.14583
+"364","Yucatán","boundaries.1_i",51.80556
+"365","Yucatán","votereg_i",66.2037
+"366","Yucatán","partyreg_i",48.33333
+"367","Yucatán","media_i",44.61111
+"368","Yucatán","finance_i",39.08333
+"369","Yucatán","voting_i",59.89583
+"370","Yucatán","count_i",70.25
+"371","Yucatán","results_i",62.95139
+"372","Yucatán","EMBs_i",69.86111
+"373","Zacatecas","PEIIndexp_i",56.28118
+"374","Zacatecas","laws.1_i",67.59259
+"375","Zacatecas","procedures.1_i",78.47222
+"376","Zacatecas","boundaries.1_i",58.28704
+"377","Zacatecas","votereg_i",63.88889
+"378","Zacatecas","partyreg_i",43.86111
+"379","Zacatecas","media_i",34.44444
+"380","Zacatecas","finance_i",39.25
+"381","Zacatecas","voting_i",59.11458
+"382","Zacatecas","count_i",69.44444
+"383","Zacatecas","results_i",50.69444
+"384","Zacatecas","EMBs_i",65.97222
