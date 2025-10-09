@@ -119,8 +119,8 @@ ui <- fluidPage(
                   "),
              br(),
              br(),
-             p(" - Visualizador elaborado por Diego Elvira -", em("https://github.com/delviratorres12-spec/VIS-PIES-MEX2024 
-                                                     DOI:10.5281/zenodo.17241012"))
+             p(" - Visualizador elaborado por Diego Elvira -"),
+HTML("[![DOI](https://zenodo.org/badge/1067623785.svg)](https://doi.org/10.5281/zenodo.17241011)"))
     ),
     
     tabPanel("Resumen",
@@ -232,7 +232,7 @@ server <- function(input, output, session) {
                   col = "#0029a3",
                   border = "grey50",
                   ylim = c(0, 100),
-                  main = paste("Puntuación por entidad del", input$var),
+                  main = paste("Puntuación por entidad del", input$var2),
                   ylab = "Puntuación")
     
     abline(h = seq(0, 80, by = 20), col = "gray50", lty = "dotted")
