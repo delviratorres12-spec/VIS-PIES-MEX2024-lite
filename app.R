@@ -119,7 +119,7 @@ ui <- fluidPage(
                   "),
              br(),
              br(),
-             p(" - Visualizador elaborado por Diego Elvira -"),
+             p(" - Visualizador elaborado por Diego Elvira - "),
 HTML("[![DOI](https://zenodo.org/badge/1067623785.svg)](https://doi.org/10.5281/zenodo.17241011)"))
     ),
     
