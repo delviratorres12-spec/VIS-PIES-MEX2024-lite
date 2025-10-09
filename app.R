@@ -120,7 +120,11 @@ ui <- fluidPage(
              br(),
              br(),
              p(" - Visualizador elaborado por Diego Elvira - "),
-HTML("[![DOI](https://zenodo.org/badge/1067623785.svg)](https://doi.org/10.5281/zenodo.17241011)")
+             HTML('
+  <a href="https://doi.org/10.5281/zenodo.17241011" target="_blank">
+    <img src="https://zenodo.org/badge/DOI/10.5281/zenodo.17241011.svg" alt="DOI">
+  </a>
+')
     ),
     
     tabPanel("Resumen",
